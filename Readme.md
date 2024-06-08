@@ -5,7 +5,7 @@ This is a classic snake game implemented in python. The objective is to control 
 ## Features
 * Simple and intuitive gameplay
 * Customizable game speed
-* Score tracking
+* Score tracking with high score
 
 ## How to play
 
